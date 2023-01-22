@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  node-app:
+  db-app:
     build: .
     image: openjdk:8-slim
     ports:
